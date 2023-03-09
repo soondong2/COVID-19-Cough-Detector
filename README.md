@@ -1,26 +1,15 @@
-# COVID 19 Cough Detector
+# COVID-19 Cough Detector
 ![image](https://user-images.githubusercontent.com/100760303/210360225-91d9df83-2038-45d5-8deb-5139797f9bca.png)
-
-<br>
-
-## 서비스 내용
-### COVID-19 검출 표준 방법
-- 역전사 중합효소 연쇄 반응(RT-PCR) 검사
-- 민감도와 특이도가 가장 높아 전 세계적으로 코로나19 감염의 표준 검사법으로 사용되고 있다.
-<br>
-
-**그러나 전용 장비와 시약, 숙련된 전문 인력이 필요하며 비용과 시간이 많이 든다는 단점이 있다.**<br>
-
-![image](https://user-images.githubusercontent.com/100760303/210359913-f71e5502-4e34-4bd7-a41c-4540f252270f.png)
-
-<br>
-
-## Data Source
-![image](https://user-images.githubusercontent.com/100760303/210360077-57973048-9d0d-436a-af16-abe102778150.png)
-
-<br>
-
-## 기술 내용
-![image](https://user-images.githubusercontent.com/100760303/210360383-fc64654c-af2d-45cd-b44c-e05cb7693fbc.png)
-![image](https://user-images.githubusercontent.com/100760303/210360436-37415c1b-8c7b-4263-8f6a-c6c5399819f1.png)
-![image](https://user-images.githubusercontent.com/100760303/210360723-e1b6228a-a1b9-4693-b058-ec70e396f1b9.png)
+![image](https://user-images.githubusercontent.com/100760303/223894429-5da13ea0-67f4-457f-ad51-d91029057d22.png)
+![image](https://user-images.githubusercontent.com/100760303/223894478-ef873900-f4d2-4a17-92ba-c43bb6a708b8.png)
+![image](https://user-images.githubusercontent.com/100760303/223894507-92f8ead8-bd12-45c4-ab48-6d2de6dbfc05.png)
+![image](https://user-images.githubusercontent.com/100760303/223894560-3b4a7d41-2feb-48fa-b7f2-d6b50c8fcfc2.png)
+![image](https://user-images.githubusercontent.com/100760303/223894613-c4b68d16-452e-4c49-b80c-22519b9cd164.png)
+![image](https://user-images.githubusercontent.com/100760303/223894648-6cfadeb9-b3b4-4c1d-b49a-6e4bff8102ac.png)
+![image](https://user-images.githubusercontent.com/100760303/223894677-b9ed4d11-d6a8-47a8-9401-3fd05eb5a60a.png)
+![image](https://user-images.githubusercontent.com/100760303/223894708-e9966f76-b610-4c54-be89-61e207e5f169.png)
+![image](https://user-images.githubusercontent.com/100760303/223894933-ff362636-9896-4516-a864-090ff0dc09f7.png)
+![image](https://user-images.githubusercontent.com/100760303/223894987-52c14186-2530-4532-94e2-c1c949d96168.png)
+![image](https://user-images.githubusercontent.com/100760303/223895011-840ba626-7ec7-4c6f-83d7-6a81f125a80c.png)
+![image](https://user-images.githubusercontent.com/100760303/223895045-e950ddcc-dfe1-488d-955a-5281dab09dd7.png)
+![image](https://user-images.githubusercontent.com/100760303/223895087-d13b8cdb-302b-4aeb-8d7f-e9894f2da358.png)
